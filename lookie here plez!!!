@@ -1,0 +1,5 @@
+JUST A DISCLAIMER: THIS PROJECT ISNT MEANT TO BE GOOD. ITS A SIMPLE PASSION PROJECT IM MAKING FOR THE SHITS N GIGGLES. FUCK OFF WITH THE ANGRY 'WAH WAH WAH YOU MADE THIS SO WRONG YOU FUCKING SUCK!!' JUST TELL ME AND ILL FIX IT BRO. NOT THAT SRS I PROMISE :SOB:
+
+Hey, just here to give an easy header on what do for this lib
+https://buttplug-csharp.docs.buttplug.io/api/  <--- that site would be a good read before you try to change anything or implement events (i'm not very good please try to commit a change should you see something that is unoptimized)
+Im genuinely horrible at doing server to client connections and porting; if you see issues with how I implemented it tell me, I will actively check on comments.
