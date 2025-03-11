@@ -1,4 +1,8 @@
 # gtag-bp-implementation
+!IMPORTANT! 
+
+THIS MAY EVENTUALLY END UP NEEDING TO BE A SEPERATE PROGRAM RATHER THAN A DLL. THIS IS DUE TO LIMITATION WITH DLL FILES AND THE UNITY SYSTEM (it can be hard to properly do UI n shit that isnt flat out space aids, this also means it might be a dll and separate application so yeah)
+
 bleh :3
 
 this is an attempt at making a plugin/lib for the BepInEx modification of hit monkey game, gorilla tag.
