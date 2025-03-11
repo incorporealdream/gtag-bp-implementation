@@ -2,5 +2,5 @@ JUST A DISCLAIMER: THIS PROJECT ISNT MEANT TO BE GOOD. ITS A SIMPLE PASSION PROJ
 
 Hey, just here to give an easy header on what do for this lib
 https://buttplug-csharp.docs.buttplug.io/api/  <--- that site would be a good read before you try to change anything or implement events (i'm not very good please try to commit a change should you see something that is unoptimized)
-Im genuinely horrible at doing server to client connections and porting; if you see issues with how I implemented it tell me, I will actively check on comments.
+Im genuinely horrible at doing server to client connections and porting; if you see issues with how I implemented it tell me, I will actively check on comments. (it isn't necessarily actual client -> server, just the device connections n shit im bad at :sob:)
 oh right, https://docs.buttplug.io/docs/dev-guide/  is also a good place to look at before you try and criticize my lib n shit :D
