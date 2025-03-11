@@ -14,3 +14,7 @@ have fun with this, get it down in freaky town, hell yeah.
 this is going to be built off of the BP-C# distributable, and will act as a bridge between it and the gorilla tag code.
 
 (the PANDA3DS emulator pull req. made my brain think that this would be pure hilarity)
+
+unfortunately for any freaky person who wants to look at this, the code n shit is private till i at least have something decent :P
+
+sowwy 🥺
